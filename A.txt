@@ -1,0 +1,2 @@
+int lv = 101
+int attack_power = 101
